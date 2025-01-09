@@ -1,3 +1,2 @@
 Dev Controler é um projeto que ajuda na organização da sua empresa feito com TypeScript, React, um back-end em NextJs que faz KRUD com o banco de dados: MongoDb, e PrismaClient. projeto onde você podera cadastrar um cliente e quando precisar 
-podera abrir um ticket(chamado) para algo que seu cliente esteja precisando Ex: cliente Petshop precisa de uma manutenção nos computadores logo otimizando o tempo de resposta, com uma grande demanda vai facilitar na organização, também pode ser usado dentro
-da propria empresa caso algum setor esteja faltando algo é só abrir um chamado. na pagágina dashboard só busca tickets dos clientes que foram cadastrados por você.
+podera abrir um ticket(chamado) para algo que seu cliente esteja precisando Ex: cliente Petshop precisa de uma manutenção nos computadores logo otimizando o tempo de resposta, com uma grande demanda vai facilitar na organização, na pagáginadashboard só busca tickets dos clientes que foram cadastrados por você.
